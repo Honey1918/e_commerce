@@ -1,16 +1,45 @@
-# e_commerce
+# 🛒 Flutter E-Commerce App
 
-A new Flutter project.
+A simple mobile e-commerce application built with **Flutter** using the [Fake Store API](https://fakestoreapi.com/). It includes a login screen, category-based product display, product details, and cart functionality.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Splash Screen
+- User Login with dummy credentials
+- Category-based Product Dashboard
+- Product Grid Layout (2 columns)
+- Product Details Page
+- Add to Cart Functionality
+- Modern UI inspired by Windows Metro UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+(Include screenshots or link to them)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** (>=3.16.5)
+- **Dart** (>=3.2.0)
+- **http** for API calls
+- **shared_preferences** for local login state
+- **google_fonts** for font styling
+- **flutter_svg** (optional, for icons)
+
+---
+
+
+
+# 1. Get dependencies
+flutter pub get
+
+# 2. Run the app
+flutter run
+
+
+
